@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "arduino-mcp2515-1.2.1\\examples\\CAN_read\\CAN_read.ino",
+    "port": "COM3"
+}
